@@ -1,0 +1,8 @@
+C:\Users\ferna\Desktop\CURSO C# nivel2\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\ferna\Desktop\CURSO C# nivel2\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\ferna\Desktop\CURSO C# nivel2\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\ferna\Desktop\CURSO C# nivel2\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\ferna\Desktop\CURSO C# nivel2\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\ferna\Desktop\CURSO C# nivel2\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\CURSO C# nivel2\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\ferna\Desktop\CURSO C# nivel2\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
